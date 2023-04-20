@@ -1,0 +1,33 @@
+{
+    "games": [{
+        "title": "Beyond Good & Evil",
+        "platform": "PS2"
+    },{
+        "title": "Star Wars Battlefront 2",
+        "platform": "PS4"
+    },{
+        "title": "Plants vs zombies Garden Warfare",
+        "platform": "PS4"
+    },{
+        "title": "Half life 2",
+        "platform": "PC"
+    },{
+        "title": "Grand theft auto V",
+        "platform": "PC"
+    },{
+        "title": "Grand theft auto San Andreas",
+        "platform": "PS2"
+    },{
+        "title": "Mario Kart 8 Deluxe",
+        "platform": "NINTENDOSWITCH"
+    },{
+        "title": "Pokémon Scarlet",
+        "platform": "NINTENDOSWITCH"
+    },{
+        "title": "Mario Kart DS",
+        "platform": "DS"
+    },{
+        "title": "Pokémon Platinum",
+        "platform": "DS"
+    }]
+}
